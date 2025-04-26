@@ -180,9 +180,9 @@ body p, input p, select p, textarea p { font-family: "Open Sans", Helvetica, san
 
 @media screen { body, input, select, textarea { font-size: 11pt; letter-spacing: 0.0375em; } }
 
-a { -moz-transition: color 0.2s ease, border-bottom-color 0.2s ease; -webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease; -ms-transition: color 0.2s ease, border-bottom-color 0.2s ease; transition: color 0.2s ease, border-bottom-color 0.2s ease; color: #c8c8c8; text-decoration: none; }
+a { -moz-transition: color 0.2s ease, border-bottom-color 0.2s ease; -webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease; -ms-transition: color 0.2s ease, border-bottom-color 0.2s ease; transition: color 0.2s ease, border-bottom-color 0.2s ease; color: #c8c8c8; text-decoration: none; font-weight: bold; }
 
-a:hover { text-decoration: white; }
+a:hover { font-weight: bold; font-size: 110%; text-decoration: white; }
 
 strong, b { color: #fff; font-weight: 600; }
 

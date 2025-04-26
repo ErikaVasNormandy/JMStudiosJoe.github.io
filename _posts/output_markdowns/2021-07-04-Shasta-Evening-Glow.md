@@ -21,3 +21,8 @@ Mount Shasta
 - Date: 2021-07-04
 - Dimensions: 24 x 36
 - Price: $2600
+
+[Etsy Link  ]( https://artofjoeyrichardson.etsy.com/listing/1891941835/alameda-creek-sunset-oil-on-canvas )
+
+
+

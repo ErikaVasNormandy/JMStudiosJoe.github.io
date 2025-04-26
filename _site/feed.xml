@@ -5,8 +5,8 @@
     <description>Oil Painting By Joey</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Apr 2025 11:31:17 -0700</pubDate>
-    <lastBuildDate>Fri, 04 Apr 2025 11:31:17 -0700</lastBuildDate>
+    <pubDate>Fri, 25 Apr 2025 15:56:00 -0700</pubDate>
+    <lastBuildDate>Fri, 25 Apr 2025 15:56:00 -0700</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -403,6 +403,9 @@ Grand Teton Mountain range in Yellowstone National Park&lt;/p&gt;
   &lt;li&gt;Dimensions: 24 x 36&lt;/li&gt;
   &lt;li&gt;Price: $2600&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://artofjoeyrichardson.etsy.com/listing/1891941835/alameda-creek-sunset-oil-on-canvas&quot;&gt;Etsy Link  &lt;/a&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Sun, 04 Jul 2021 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/works/Shasta-Evening-Glow.html</link>
@@ -427,34 +430,13 @@ Grand Teton Mountain range in Yellowstone National Park&lt;/p&gt;
   &lt;li&gt;Dimensions: 12 x 16&lt;/li&gt;
   &lt;li&gt;Price: $500&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://artofjoeyrichardson.etsy.com/listing/1891941835/alameda-creek-sunset-oil-on-canvas&quot;&gt;Etsy Link  &lt;/a&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Sun, 04 Jul 2021 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/works/High-Meadows.html</link>
         <guid isPermaLink="true">http://localhost:4000/works/High-Meadows.html</guid>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Hedge Creek Falls</title>
-        <description>&lt;h2 id=&quot;hedge-creek-falls&quot;&gt;Hedge Creek Falls&lt;/h2&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/HedgeCreekFalls/HedgeCreekFalls.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Mount Shasta&lt;/p&gt;
-
-&lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Date: 2021-07-04&lt;/li&gt;
-  &lt;li&gt;Dimensions: 12 x 16&lt;/li&gt;
-  &lt;li&gt;Price: $625&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 04 Jul 2021 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/Hedge-Creek-Falls.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/Hedge-Creek-Falls.html</guid>
         
         
         <category>works</category>
@@ -475,10 +457,40 @@ Grand Teton Mountain range in Yellowstone National Park&lt;/p&gt;
   &lt;li&gt;Dimensions: 12 x 16&lt;/li&gt;
   &lt;li&gt;Price: $624&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://artofjoeyrichardson.etsy.com/listing/1891941835/alameda-creek-sunset-oil-on-canvas&quot;&gt;Etsy Link  &lt;/a&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Sun, 04 Jul 2021 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/works/Grand-View-Nocturne.html</link>
         <guid isPermaLink="true">http://localhost:4000/works/Grand-View-Nocturne.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Hedge Creek Falls</title>
+        <description>&lt;h2 id=&quot;hedge-creek-falls&quot;&gt;Hedge Creek Falls&lt;/h2&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/HedgeCreekFalls/HedgeCreekFalls.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hedge Creek Falls is a waterfall in the very northerly parts of NorCal (specifically Dunsmuir, California, just off Interstate 5. It can get covered in snow, but seeing as it was July, the place was wooded and a nice break from the sun.&lt;/p&gt;
+
+&lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Date: 2021-07-04&lt;/li&gt;
+  &lt;li&gt;Dimensions: 12 x 16&lt;/li&gt;
+  &lt;li&gt;Price: $625&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://artofjoeyrichardson.etsy.com/listing/1891941835/alameda-creek-sunset-oil-on-canvas&quot;&gt;Etsy Link  &lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 04 Jul 2021 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/Hedge-Creek-Falls.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/Hedge-Creek-Falls.html</guid>
         
         
         <category>works</category>

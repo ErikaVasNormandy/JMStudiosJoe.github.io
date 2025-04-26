@@ -188,10 +188,11 @@ width: 10%;
 		// border-bottom: dotted 1px;
 		color: rgb(200,200,200);
 		text-decoration: none;
+		font-weight: bold;
 
 		&:hover {
-			// font-weight: bold;
-			// font-size: 90%;
+			font-weight: bold;
+			font-size: 110%;
 			text-decoration:  white;
 		}
 	}
